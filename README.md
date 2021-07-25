@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am JaeSung Choi(JessJess Choi)
+I am student in Soongsil Univ.
+My major is Computer Science & Engineering
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJessJess-Choi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+🌱 I’m currently learning ...
+Web Programming
+Problem Solving
+[![https://solved.ac/profile/js3460](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
 <!--
 **JessJess-Choi/JessJess-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
