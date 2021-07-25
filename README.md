@@ -7,7 +7,9 @@ My major is Computer Science & Engineering
 🌱 I’m currently learning ...
 Web Programming
 Problem Solving
-[![https://solved.ac/profile/js3460](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/png?handle=js3460)
+
 
 
 <!--
