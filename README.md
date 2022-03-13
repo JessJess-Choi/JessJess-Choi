@@ -9,7 +9,7 @@ My major is Computer Science & Engineering
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessJess-Choi&&show_icons=true&theme=synthwave)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessJess-Choi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessJess-Choi)](https://github.com/JessJess-Choi)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=js3460)](https://solved.ac/js3460/)
 
