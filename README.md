@@ -18,7 +18,7 @@ Web Programming
 Problem Solving 
 
 
-github-readme-stats.vercel.app/api/top-langs/?username={JessJess-Choi}&langs_count=8
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessJess-Choi&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
 <!--
