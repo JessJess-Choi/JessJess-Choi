@@ -16,6 +16,7 @@ My major is Computer Science & Engineering
 Web Programming
 
 Problem Solving
+github-readme-stats.vercel.app/api/top-langs/?username={JessJess-Choi}&langs_count=8
 
 
 <!--
